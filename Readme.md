@@ -17,7 +17,7 @@ Below table shows the API endpoints created and the description of endpoints.
 | Method  | Url                | Description                          |
 | ------------- |--------------------|--------------------------------------|
 | GET  | /api/customer      | To retrieve all the customer details |
-| GET | /api/customer/{id} | retrieve by specicic customer ID     |
+| GET | /api/customer/{id} | retrieve by specific customer ID     |
 |POST|/api/customer| To create a record of customer       |
 |PUT|/api/customer/{id}| To Update a record of customer by ID |
 |DELETE|/api/customer/{id}| To Delete a customer record by ID    |
