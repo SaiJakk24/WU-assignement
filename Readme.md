@@ -21,6 +21,8 @@ Below table shows the API endpoints created and the description of endpoints.
 |POST|/api/customer| To create a record of customer       |
 |PUT|/api/customer/{id}| To Update a record of customer by ID |
 |DELETE|/api/customer/{id}| To Delete a customer record by ID    |
+
+
 You can test them using postman or any other rest client.
 ## Rate Limiter
 
