@@ -3,7 +3,7 @@
 
 # WU Assignment
 
-Customerportal  demo is demonstrating how to implement simple CRUD operations with a Customer entity and implementing rate limiter to the endpoints.
+WU Assignment is demonstrating how to implement simple CRUD operations with a Customer entity and implementing rate limiter to the endpoints.
 
 This project is based on the Spring Boot project and uses these packages :
 - Spring Boot 3
